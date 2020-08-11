@@ -14,3 +14,6 @@ The file start with test are the raw images and video used for finding lanes. Th
 
 `lane_video.py` is the code file for lane detection on video.
 
+## Check the following page out for more details
+
+#### https://yushan1089.github.io/lane.html
